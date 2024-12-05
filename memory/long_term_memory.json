@@ -1,0 +1,758 @@
+[
+    {
+        "name": "ground_plane",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "workcell",
+        "position": "-0.040107 0.052292 0 0 -0 0"
+    },
+    {
+        "name": "floor",
+        "position": "0 0 -0.1 0 -0 0"
+    },
+    {
+        "name": "wall1",
+        "position": "4.13686 -10.0212 3.48855 0 -0 0"
+    },
+    {
+        "name": "wall2",
+        "position": "-6.58151 -8.924 3.48855 0 -0 0"
+    },
+    {
+        "name": "wall3",
+        "position": "-9.25721 0.6135 3.48855 0 -0 0"
+    },
+    {
+        "name": "rack1",
+        "position": "7.35056 1.7443 1.41643 0 -0 0"
+    },
+    {
+        "name": "rack2",
+        "position": "5.36795 1.7443 1.41643 0 -0 0"
+    },
+    {
+        "name": "rack3",
+        "position": "7.00142 -7.6467 1.41643 0 -0 0"
+    },
+    {
+        "name": "rack4",
+        "position": "4.97338 -7.6467 1.41643 0 -0 0"
+    },
+    {
+        "name": "rack5",
+        "position": "2.66949 -7.6467 1.41643 0 -0 0"
+    },
+    {
+        "name": "large_pallet1",
+        "position": "-3.33609 6.31883 1.04257 0 -0 0"
+    },
+    {
+        "name": "large_pallet2",
+        "position": "-5.74492 6.31883 1.04257 0 -0 0"
+    },
+    {
+        "name": "large_pallet3",
+        "position": "-7.55868 1.91644 1.04257 0 -0 0"
+    },
+    {
+        "name": "empty_pallet1",
+        "position": "-5.29667 1.91644 0.1636 0 -0 0"
+    },
+    {
+        "name": "box_pallet1",
+        "position": "-1.09806 6.31883 0.61958 0 -0 0"
+    },
+    {
+        "name": "pole1",
+        "position": "5.02174 -2.39478 3.02208 0 -0 0"
+    },
+    {
+        "name": "pole2",
+        "position": "0.47071 -2.39478 3.02208 0 -0 0"
+    },
+    {
+        "name": "pole3",
+        "position": "-3.93786 -2.39478 3.02208 0 -0 0"
+    },
+    {
+        "name": "control_panel",
+        "position": "2.07015 1.16224 0.561315 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3",
+        "position": "8.07235 5.67521 0 0 -0 0"
+    },
+    {
+        "name": "center_collision",
+        "position": "0 0 0.45 0 -0 0"
+    },
+    {
+        "name": "base",
+        "position": "0 0 0.100245 0 -0 0"
+    },
+    {
+        "name": "left_wall",
+        "position": "-0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "right_wall",
+        "position": "0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_left_wall",
+        "position": "-0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_mid_wall",
+        "position": "0 0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "front_right_wall",
+        "position": "0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_left_wall",
+        "position": "-0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_mid_wall",
+        "position": "0 -0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "back_right_wall",
+        "position": "0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "BABY_CAR",
+        "position": "-656208 1.23157e+06 -0.000142 0.000174 -0.006029 -2.625"
+    },
+    {
+        "name": "Banana for Scale",
+        "position": "0.488408 5.69699 0.43399 1.7478 1.48518 1.74751"
+    },
+    {
+        "name": "FIRE_ENGINE",
+        "position": "-6.90207 -4.20987 0.416503 -0.003776 -0.001238 0.429835"
+    },
+    {
+        "name": "LACING_SHEEP",
+        "position": "-2.21685e+17 1.2178e+17 4.43369e+16 0 -0 0"
+    },
+    {
+        "name": "LADYBUG_BEAD",
+        "position": "-2.61577e+29 -1.27129e+28 3.52391e+29 0 -0 0"
+    },
+    {
+        "name": "LADYBUG_BEAD_0",
+        "position": "-6.78217 -4.29641 0.416671 -0.002778 -0.00528 0.025996"
+    },
+    {
+        "name": "LADYBUG_BEAD_0_clone",
+        "position": "-4.87355 3.44317 0.416671 -0.002778 -0.00528 0.025996"
+    },
+    {
+        "name": "SCHOOL_BUS",
+        "position": "-6.66599 -4.11513 0.416696 -0.001858 -0.001701 1.64254"
+    },
+    {
+        "name": "Squirrel",
+        "position": "-7.01972 -4.04159 0.416703 -0.002022 -0.004387 1.18461"
+    },
+    {
+        "name": "Untitled",
+        "position": "0.01056 0.159794 0 0 -0 0"
+    },
+    {
+        "name": "Vans_Cereal_Honey_Nut_Crunch_11_oz_box_clone",
+        "position": "5615.97 2726.23 -0.000557 -0.004046 -0.008228 1.67744"
+    },
+    {
+        "name": "Vans_Cereal_Honey_Nut_Crunch_11_oz_box_clone_clone",
+        "position": "4675.41 -3815.21 -0.000557 -0.004046 -0.008228 1.72293"
+    },
+    {
+        "name": "Weisshai_Great_White_Shark",
+        "position": "-6.73828 -3.92666 0.41348 0.020123 0.034542 -0.893959"
+    },
+    {
+        "name": "Weisshai_Great_White_Shark_clone",
+        "position": "-4.4965 3.23066 0.413471 0.020125 0.034541 -0.893961"
+    },
+    {
+        "name": "bottle_beer",
+        "position": "7.12758 -4.43956 0.40495 0.040191 -0.148844 -0.014059"
+    },
+    {
+        "name": "bottle_beer_clone",
+        "position": "-4.82739 3.66337 0.404951 0.040193 -0.148849 -0.014058"
+    },
+    {
+        "name": "can_fanta",
+        "position": "6.96359 -4.53372 0.405008 1.16823 -0.721053 1.49911"
+    },
+    {
+        "name": "can_fanta_clone_clone",
+        "position": "-4.86505 3.3479 0.370496 0.832755 -0.616788 0.466874"
+    },
+    {
+        "name": "can_pepsi",
+        "position": "6.80841 -4.15941 0.441541 1.52916 -1.00178 0.061321"
+    },
+    {
+        "name": "can_sprite",
+        "position": "7.12452 -4.14952 0.409267 0.356698 -0.036357 -0.028828"
+    },
+    {
+        "name": "coke_can",
+        "position": "6.90575 -4.60274 0.450903 1.56981 -0.437361 0.062034"
+    },
+    {
+        "name": "coke_can_clone",
+        "position": "-4.73574 3.61157 0.450897 1.56973 -0.438354 0.061937"
+    },
+    {
+        "name": "ground_plane",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "lemon",
+        "position": "0.733425 6.03634 0.408783 0.630465 0.307484 -2.87319"
+    },
+    {
+        "name": "lemon_clone",
+        "position": "-4.52486 3.56952 0.408773 0.630466 0.30749 -2.87208"
+    },
+    {
+        "name": "orange",
+        "position": "0.447588 5.86936 0.415269 -0.395523 0.169616 -1.55677"
+    },
+    {
+        "name": "orange_clone_clone",
+        "position": "-4.44016 3.50344 0.415269 -0.395524 0.169614 0.051308"
+    },
+    {
+        "name": "peach",
+        "position": "29346.6 1089.39 -0.004018 0.27929 0.432107 -2.17331"
+    },
+    {
+        "name": "peach_0",
+        "position": "14728.1 26043.2 -0.004018 0.27929 0.432107 -0.466801"
+    },
+    {
+        "name": "plum",
+        "position": "-159989 -141451 -0.005598 0.654271 0.214955 -2.57262"
+    },
+    {
+        "name": "plum_0",
+        "position": "0.77631 5.82353 0.411166 0.675057 0.222396 0.611071"
+    },
+    {
+        "name": "strawberry",
+        "position": "-83941 4564.74 -0.002709 0.666455 0.157584 -2.17209"
+    },
+    {
+        "name": "strawberry_0",
+        "position": "0.567749 5.97878 0.414035 0.627498 0.148842 -1.71955"
+    },
+    {
+        "name": "tea_box",
+        "position": "6.80656 -4.40332 0.37927 -1.2e-05 -1.7e-05 0.000138"
+    },
+    {
+        "name": "workcell",
+        "position": "-0.040107 0.052292 0 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3",
+        "position": "6.96548 -4.40075 -0.308231 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3_clone",
+        "position": "-6.83587 -4.10468 -0.308231 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3_clone_0",
+        "position": "-4.66216 3.40295 -0.308231 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3_clone_1",
+        "position": "0.610712 5.89491 -0.308231 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3_clone_2",
+        "position": "7.65881 5.69058 -0.308231 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3_clone",
+        "position": "-6.83587 -4.10468 -0.308231 0 -0 0"
+    },
+    {
+        "name": "center_collision",
+        "position": "0 0 0.45 0 -0 0"
+    },
+    {
+        "name": "base",
+        "position": "0 0 0.100245 0 -0 0"
+    },
+    {
+        "name": "left_wall",
+        "position": "-0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "right_wall",
+        "position": "0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_left_wall",
+        "position": "-0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_mid_wall",
+        "position": "0 0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "front_right_wall",
+        "position": "0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_left_wall",
+        "position": "-0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_mid_wall",
+        "position": "0 -0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "back_right_wall",
+        "position": "0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3_clone_0",
+        "position": "-4.66216 3.40295 -0.308231 0 -0 0"
+    },
+    {
+        "name": "center_collision",
+        "position": "0 0 0.45 0 -0 0"
+    },
+    {
+        "name": "base",
+        "position": "0 0 0.100245 0 -0 0"
+    },
+    {
+        "name": "left_wall",
+        "position": "-0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "right_wall",
+        "position": "0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_left_wall",
+        "position": "-0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_mid_wall",
+        "position": "0 0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "front_right_wall",
+        "position": "0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_left_wall",
+        "position": "-0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_mid_wall",
+        "position": "0 -0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "back_right_wall",
+        "position": "0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3_clone_1",
+        "position": "0.610712 5.89491 -0.308231 0 -0 0"
+    },
+    {
+        "name": "center_collision",
+        "position": "0 0 0.45 0 -0 0"
+    },
+    {
+        "name": "base",
+        "position": "0 0 0.100245 0 -0 0"
+    },
+    {
+        "name": "left_wall",
+        "position": "-0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "right_wall",
+        "position": "0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_left_wall",
+        "position": "-0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_mid_wall",
+        "position": "0 0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "front_right_wall",
+        "position": "0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_left_wall",
+        "position": "-0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_mid_wall",
+        "position": "0 -0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "back_right_wall",
+        "position": "0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "workcell_bin_clone_3_clone_2",
+        "position": "7.65881 5.69058 -0.308231 0 -0 0"
+    },
+    {
+        "name": "center_collision",
+        "position": "0 0 0.45 0 -0 0"
+    },
+    {
+        "name": "base",
+        "position": "0 0 0.100245 0 -0 0"
+    },
+    {
+        "name": "left_wall",
+        "position": "-0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "right_wall",
+        "position": "0.319 0 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_left_wall",
+        "position": "-0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "front_mid_wall",
+        "position": "0 0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "front_right_wall",
+        "position": "0.25331 0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_left_wall",
+        "position": "-0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "back_mid_wall",
+        "position": "0 -0.31899 0.252845 0 -0 0"
+    },
+    {
+        "name": "back_right_wall",
+        "position": "0.25331 -0.31899 0.395445 0 -0 0"
+    },
+    {
+        "name": "coke_can",
+        "position": "6.57156 -3.86756 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0.003937 0.004724 -0.18 0 -0 0"
+    },
+    {
+        "name": "Untitled",
+        "position": "0.010564 0.159794 0 0 -0 0"
+    },
+    {
+        "name": "Wall_17_Collision",
+        "position": "0 0 1.25 0 -0 0"
+    },
+    {
+        "name": "Wall_19_Collision",
+        "position": "0 0 1.25 0 -0 0"
+    },
+    {
+        "name": "Wall_22_Collision",
+        "position": "0 0 1.25 0 -0 0"
+    },
+    {
+        "name": "Wall_23_Collision",
+        "position": "0 0 1.25 0 -0 0"
+    },
+    {
+        "name": "bottle_beer",
+        "position": "7.58779 -4.39865 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "Vans_Cereal_Honey_Nut_Crunch_11_oz_box_clone",
+        "position": "-4.66616 3.30583 0.416217 -0.004053 -0.008233 1.9e-05"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "Vans_Cereal_Honey_Nut_Crunch_11_oz_box_clone_clone",
+        "position": "-4.56447 3.5191 0.416297 -0.009271 -0.009902 0.471205"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "BABY_CAR",
+        "position": "-6.80007 -3.83986 0.5 0 -0 0"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "LACING_SHEEP",
+        "position": "-6.9058 -3.91807 0.5 0 -0 0"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "LADYBUG_BEAD",
+        "position": "-6.72355 -4.02093 0.5 0 -0 0"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "strawberry",
+        "position": "0.710615 6.10017 0.5 -2 0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "peach",
+        "position": "0.570682 5.84402 0.5 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "peach_0",
+        "position": "0.602234 6.00498 0.5 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "plum",
+        "position": "0.549777 6.09617 0.5 -1 0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "can_fanta",
+        "position": "6.95561 -3.83919 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "can_pepsi",
+        "position": "6.95561 -3.83919 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "can_sprite",
+        "position": "7.14199 -3.84518 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "tea_box",
+        "position": "7.0901 -3.80193 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "LADYBUG_BEAD_0",
+        "position": "-6.78264 -4.29613 0.5 0 -0 0"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "SCHOOL_BUS",
+        "position": "-6.72356 -3.24543 0 0 -0 0"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "Squirrel",
+        "position": "-6.93121 -3.11805 0 0 -0 0"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "Weisshai_Great_White_Shark",
+        "position": "-6.56826 -3.31481 0 0 -0 0"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "FIRE_ENGINE",
+        "position": "-6.8592 -3.30367 0 0 -0 0"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "Banana for Scale",
+        "position": "1.13819 5.64492 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0.12 0 -0 1.5708"
+    },
+    {
+        "name": "plum_0",
+        "position": "0.752941 5.99881 0.5 -1 0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "strawberry_0",
+        "position": "0.567275 6.03028 0.5 -2 0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "orange",
+        "position": "0.460395 5.73707 0.563364 -1.83141 0.386611 2.97317"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "lemon",
+        "position": "0.766089 5.90195 3 2.14159 -1.14159 -3.14159"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "lemon_clone",
+        "position": "-4.52486 3.56952 0.408774 0.630451 0.307507 -2.8452"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "Weisshai_Great_White_Shark_clone",
+        "position": "-4.51889 3.25853 0.413475 0.020125 0.034541 -0.893963"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "coke_can_clone",
+        "position": "-4.73566 3.61157 0.450902 1.56981 -0.437016 0.061424"
+    },
+    {
+        "name": "collision",
+        "position": "0.003937 0.004724 -0.18 0 -0 0"
+    },
+    {
+        "name": "LADYBUG_BEAD_0_clone",
+        "position": "-4.87355 3.44319 0.41667 -0.002767 -0.005116 0.025763"
+    },
+    {
+        "name": "collision_0",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "bottle_beer_clone",
+        "position": "-4.82819 3.66308 0.407438 0.014656 -0.054638 -0.00359"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "orange_clone_clone",
+        "position": "-4.4403 3.50333 0.415568 -0.458883 0.300854 0.060064"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 0 0"
+    },
+    {
+        "name": "can_fanta_clone_clone",
+        "position": "-4.85263 3.35363 0.449371 1.55338 -0.338115 0.003411"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    },
+    {
+        "name": "collision",
+        "position": "0 0 0 0 -0 0"
+    }
+]
