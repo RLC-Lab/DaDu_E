@@ -44,21 +44,21 @@ In the eval code, we set 4 actions as **goto**, **pick up**, **place** and **don
 * Firstly, init the arm pose:
 
 ```shell
-conda activate grasp-env
+conda activate dadu-e
 python init_detect_arm.py
 ```
 
 * Meanwhile, prepare grasping init:
 
 ```shell
-conda activate grasp-env
+conda activate dadu-e
 python test_camera_convert.py
 ```
 
 * Then, run the pipeline manually:
 
 ```shell
-conda activate grasp-env
+conda activate dadu-e
 python executor_a.py
 ```
 
