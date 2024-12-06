@@ -41,21 +41,21 @@ In the eval code, we set 4 actions as **goto**, **pick up**, **place** and **don
 
 ## Run the codes
 
-* Firstly, init the arm pose:
+* Firstly, init the arm pose, avoid the collision between the arm and the object:
 
 ```shell
 conda activate dadu-e
 python init_detect_arm.py
 ```
 
-* Meanwhile, prepare grasping init:
+* Meanwhile, prepare grasping init, you should run this script duiring grasping:
 
 ```shell
 conda activate dadu-e
 python test_camera_convert.py
 ```
 
-* Then, run the pipeline manually:
+* After that, run the pipeline manually:
 
 ```shell
 conda activate dadu-e
@@ -67,13 +67,24 @@ during this processing, user need to input the target postion
 ```
 action_type(1_navi 2_pick 3_place 4_done): 
 1(manually choose)
-param: -4.66216 3.40295
+param: -4.66216 3.40295 (example postion of a table target)
 goto[table][-4.66216 3.40295]
 navigatoin
 goto[table][-4.66216 3.40295]
 -4.66216 3.40295
 move_base:  ['-4.66216', '3.40295']
 ```
+
+Then you can arrive at the target position and select pick up object.
+
+* Or you can run the pipeline automatically:
+
+```shell
+conda activate dadu-e
+python executor.py
+```
+
+During this process, you should replace your OpenAI Key at `api_key`
 
 * deal with navigation planning error:
 

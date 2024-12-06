@@ -1,7 +1,7 @@
 # executor.py
 
 from navigation import Navigation
-from grasping import Grasping
+from grasp.grasping import Grasping
 from image import ImageSaver
 import time
 import subprocess
