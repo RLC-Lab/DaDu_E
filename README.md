@@ -91,3 +91,17 @@ During this process, you should replace your OpenAI Key at `api_key`
 ```shell
 rosparam set use_sim_time true
 ```
+
+## Thanks
+
+Thanks the code of [OK-robot](https://github.com/ok-robot/ok-robot), the code of [AnyGrasp](https://github.com/graspnet/anygrasp_sdk) and the code of [langSAM](https://github.com/luca-medeiros/lang-segment-anything)
+
+If you find our projct useful, please cite our paper:
+```
+@article{sun2024dadu,
+  title={DaDu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline},
+  author={Wenhao Sun and Sai Hou and Zixuan Wang and Bo Yu and Shaoshan Liu and Xu Yang and Shuai Liang and Yiming Gan and Yinhe Han},
+  journal={arXiv preprint arXiv:2412.01663},
+  year={2024}
+}
+```
