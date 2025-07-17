@@ -1,8 +1,9 @@
-# DaDu-E codes
+<h1 align="center">DaDu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline</h1>
 
-**This project is working in process**
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)]([https://arxiv.org/abs/2407.04292](https://arxiv.org/abs/2412.01663))
 
-**Our fully code will be coming soon**
+
+**This project is working in process, our fully code will be coming soon**
 
 ## Building and Installation
 
